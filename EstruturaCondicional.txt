@@ -1,3 +1,63 @@
 Anotações de estrutura condicional!
 
+Expressẽos comparativas
+
+expressão > valor verdade
+5 > 10 = Falso
+
+Operadores Comparativos
+
+> maior
+< menor
+>= maior ou igual
+<= menor ou igual
+== igual
+!= diferente
+
+Expressões Lógicas
+
+Expressão > valor verdade
+
+Operadores Lógicos
+
+&& E
+|| OU
+! NÃO
+
+Estrutura condicional If Else
+É uma estrutura de controle que permite definir que um certo bloco de comandos somente sera executado dependendo de uma condição
+
+if(<condição){
+  <comando1>
+  <comando2>
+}else {
+ <comando1>
+ <comando2>
+}
+
+Sintaxe Opcional
+
+Operadores de atribuição cumulativa
++= 
+-=
+*=
+/=
+%= 
+
+Switch-Case
+Quando se tem várias opções de fluxo a serem tratadas com base dno valor de uma variável.
+
+Estrutura condicional ternária
+Estrutura opcional ao if-else quando se deseja decidir um Valor com base em uma condição
+(condição) ? valor_se_verdadeiro : valor_se_falso
+
+(2>4) ? 50:80 > 80
+
+Escopo e Inicialização
+
+Escopo de uma variavel é a região do programa onde a variável é válida, ou seja, onde ela pode ser referenciada.
+Uma variavel não pode ser usada se não for iniciada
+
+
+
 
