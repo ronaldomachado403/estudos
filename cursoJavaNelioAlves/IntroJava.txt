@@ -1,0 +1,19 @@
+Introdução a linguagem Java
+
+LTS - Long Term Support
+
+Java
+Java é uma linguagem de programação criada por James Gosling, engenheiro da SUn Microsystems, começou o desenvolvimento do Java em 1991, seu objetivo inicial era criar uma linguagem de programação para dispositivos embarcados, que precisavam de software flexivel e portátil.
+
+Em 1995 a uma mudança de foco para Web, com o crescimento da internet e a popularização da web, a Sun mudou o foco do Oak (primeiro nome do java) para construção de aplicativos para web, com o conceito de criar uma linguagem capaz de ser executada em qualquer tipo de máquina conectáda a internet.
+
+OAK foi renomeada para Java, o nome java foi inspirado em Java Coffe, uma marca de café popular, refletindo a ideia de algo rápido e energizante.
+
+Em 1996, a primeira versão pública do Java foi lançada, a ideia central era criar a promessa de Write Once, Run Anywhere (escreva uma vez, execute em qualquer lugar), isso se tornou possivel graças a JVM, Máquina Virtual Java, que permite que os programas Java fossem executados em qualquer plataforma, sem a necessidade de reescrever o código para cada sistema operacional.
+
+Caracteristicas principais eram a portabildiade do código Java é compilado para bytecode, que é interpretado pela JVM em diferentes plataformas, a segurança, java foi projetado com um modelo de segurança robusto, especialmente para aplicativos que seriam executados na internet.
+
+jVM - Java Virtual Machine
+É a maquina virtual do java, responsavel por rodar o código java na máquina.
+
+
